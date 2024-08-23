@@ -2,7 +2,7 @@
 
 ## Portfolio
 
-
+Welcome to my Cybersecurity & Homelab Portfolio. I am an enthusiast a
 
 <!---
 bigneal007/bigneal007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
