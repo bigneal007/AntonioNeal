@@ -4,6 +4,21 @@
 
 Welcome to my Cybersecurity & Homelab Portfolio. I am an enthusiast and a WGU student working on a Master of Science in Cybersecurity and Information Assurance. I am also seeking a role in a Cybersecurity position where I can showcase my skills and gain practical experience. I aim to utilize my skills and abilities in a career-driven environment to improve the organization's safety.    
 
+
+# Project Overview 
+|     Project     |                 Skills                |     Tools       |      Link       |
+| --------------- | ------------------------------------- | --------------- | --------------- |
+| Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
+|                 |                                       |                 |                 |
+|                 |                                       |                 |                 |
+
+
+# Certifications 
+List our your certifications and/or link to them. Also include the ones you plan on doing!
+
+|     Certification     |               Completed?               |     Link       |
+| --------------------  | -------------------------------------- | ---------------| 
+| CompTIA Security+     |                xx/xx/xx                |     xxx        | 
 <!---
 bigneal007/bigneal007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
