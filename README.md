@@ -8,7 +8,7 @@ Welcome to my Cybersecurity & Homelab Portfolio. I am an enthusiast and a WGU st
 # Project Overview 
 |     Project     |                 Skills                    |     Tools       |      Link       |
 | --------------- | ----------------------------------------  | --------------- | --------------- |
-|     Homelab     | Virtualization, Containers, Networking    |      Proxmox    |                 |
+|     Homelab     | Virtualization, Containerization, Network Security     |      Proxmox    |                 |
 |      SIEM       | Log management, Security Archtecture      |      Wazuh      |  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
 |                 |                                           |                 |                 |
 |                 |                                           |                 |                 |
