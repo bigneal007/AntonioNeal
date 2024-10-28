@@ -18,7 +18,8 @@ Welcome to my Cybersecurity & Homelab Portfolio. I am an enthusiast and a WGU st
 
 |     Certification              |               Completed?               |                                         Link                                             |
 | --------------------           | -------------------------------------- | -----------------------------------------------------------------------------------------| 
-| CompTIA Cybersecurity Analytical Professional                   |                10/03/2024              | [Certificate](https://www.credly.com/badges/a2b1bd41-21c8-4545-b302-57ea8add3250)
+| CompTIA Security Analytics Professional                   |                10/03/2024              | [Certificate](https://www.credly.com/badges/a2b1bd41-21c8-4545-b302-57ea8add3250)
+| CompTIA CySA+                  |                10/03/2024              | [Certificate](https://www.credly.com/badges/d8ca21b6-277c-4a06-9b48-92fc264f945b)        |
 | CompTIA Security+              |                03/29/2023              | [Certificate](https://www.credly.com/badges/43bb28f0-9053-4463-b956-09a047c937f3)        |
 | ISC2 Certified in Cybersecurty |                05/25/2024              | [Certificate](https://www.credly.com/badges/0e069288-a72d-41e6-bd0a-b773549da9b2)        |
 
