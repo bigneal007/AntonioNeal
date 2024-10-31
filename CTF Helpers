@@ -1,0 +1,9 @@
+Capture the flags
+obsidia  - for note taking and tracking
+exiftool - display metadata for images in linux cli
+file - display the file type and info 
+cyberchef - for base conversions, encryption, encoding
+linux commands - decode base64 [ echo (strings) | base64 -d]
+               - encode base64 [ echo (strings) | base64 ]
+
+
